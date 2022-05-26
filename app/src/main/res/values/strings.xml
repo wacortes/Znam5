@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Znam</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="Principal2">TODO</string>
+    <string name="Fondo">TODO</string>
+    <string name="Fondo2">TODO</string>
+    <string name="Principal">TODO</string>
+    <string name="bogota">bogota</string>
+    <string name="cali">cali</string>
+    <string name="medellin">medellin</string>
+    <string name="logcd">TODO</string>
+    <string name="imgpri">TODO</string>
+    <string name="inicio">Inicio</string>
+    <string name="Im">TODO</string>
+    <string name="img3">TODO</string>
+    <string name="parques">parques</string>
+    <string name="museos">museos</string>
+    <string name="menu">menu</string>
+    <string name="est_en_el_centro_del_territorio_colombiano_en_el_altiplano_cundiboyacense_y_sobre_la_sabana_que_lleva_su_mismo_nombre_la_ciudad_hace_parte_de_la_regi_n_andina_una_de_las_seis_regiones_del_pa_s_bogot_es_verde_gracias_a_sus_parques_y_a_los_cerros_orientales_que_dominan_los_santuarios_de_monserrate_y_guadalupe">Está en el centro del territorio colombiano, en el altiplano cundiboyacense y sobre la sabana que lleva su mismo nombre. La ciudad hace parte de la región Andina, una de las seis regiones del país. Bogotá es verde gracias a sus parques y a los cerros orientales que dominan los santuarios de Monserrate y Guadalupe.</string>
+    <string name="a1">TODO</string>
+    <string name="a2">TODO</string>
+    <string name="a3">TODO</string>
+    <string name="a4">Home</string>
+    <string name="a5">Piscina Olímpica</string>
+    <string name="a6"><![CDATA[Dirección:  Calle 17 A Sur No. 2 A-60 Este Horario :  6:00 a.m. a 6:00 p.m.]]></string>
+    <string name="a7">TODO</string>
+</resources>
